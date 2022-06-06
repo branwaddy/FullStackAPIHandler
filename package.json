@@ -1,0 +1,35 @@
+{
+  "name": "capstone-api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "capstone project for using express and react to create an app that works with apis ",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "react",
+    "express",
+    "full-stack",
+    "api"
+  ],
+  "author": "b waddy",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "helmet": "^5.1.0",
+    "node-fetch": "^3.2.2",
+    "react-router-dom": "^6.2.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "nodemon": "^2.0.15"
+  }
+}
