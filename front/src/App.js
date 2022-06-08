@@ -52,7 +52,7 @@ function App() {
 const openRepo = (e) => {
   /* Find data of specific repo by iterating through reposData until the clicked repo (e)'s id == to the iterated repo's id,
   and find the index of this repo.*/
-  const index = reposData.findIndex(x => x.id == e.id);
+  const index = reposData.findIndex(x => x.id === e.id);
   // Set currRepo to the repo at found index 
   setRepo(reposData[index]);
   // Get url for data about repo's commits- found at 'reposData[index].commits_url.slice(0,-6)';
