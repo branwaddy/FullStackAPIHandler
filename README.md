@@ -5,7 +5,7 @@ Uses node.js with Express to handle back end server requests and React to handle
 
 INSTRUCTIONS FOR USE
 Open terminal at project folder and type npm start.
-Open another terminal at projec folder and then enter 'cd front'.
+Open another terminal at project folder and then enter 'cd front'.
 Enter NPM start.
 
 From there enter a username of a GitHub user into the textbox. When a button is shown, click "USER FOUND".
