@@ -12,4 +12,4 @@ From there enter a username of a GitHub user into the textbox. When a button is 
 
 You are now able to view their repository information as well as each repo's commit information.
 
-There are several buttons in the user section, under the heading 'REPOS'. Click on any of these to view that specific repo's information including commit details.
+REPO DETAILS: There are several buttons in the user section, under the heading 'REPOS'. Click on any of these to view that specific repo's information including commit details.
