@@ -1,7 +1,7 @@
 # Capstone-API
-Capstone project for full stack course, uses back and front end to fetch API.
+Capstone project for full stack course, uses back and front end to utilise GitHub API which fetches user and repo data from GitHb.
 
-Uses node.js with Express to handle back end server requests and React to handle front- end.
+Uses Node.js with Express to handle back-end server requests and React.js to handle front-end.
 
 INSTRUCTIONS FOR USE
 
